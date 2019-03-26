@@ -22,9 +22,22 @@
 
 ### Course 2
 
+![Langkah 1](step_1.png)
+
+![Langkah 2](step_2.png)
+
+![Langkah 3](step_3.png)
+
+![Langkah 4](step_4.png)
+
+![Langkah 5](step_5.png)
+
+![Langkah 6](step_6.png)
+
+### Course 3
+
 ![Langkah 1](step1.png)
 
 ![Langkah 2](step2.png)
 
 ![Langkah 3](step3.png)
-
